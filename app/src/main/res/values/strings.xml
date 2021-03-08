@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasCH6TopRecycleView</string>
+    <string name="nama">Nama</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="umur">Umur</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
